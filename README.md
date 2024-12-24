@@ -14,8 +14,7 @@ Get in Touch!</a></h4>
 <p align="center">Hit the ⭐ button if you like this project!</p>
 
 <h1 align="center">
-    <img  alt="Christmas Tree" width='400' height='582' src="https://github.
-com/AlvaroIsrael/christmas-tree/blob/main/src/images/christmas-tree.png"/>
+    <img  alt="Christmas Tree" width='400' height='582' src="https://github.com/AlvaroIsrael/christmas-tree/blob/main/src/images/christmas-tree.png"/>
 </h1>
 
 ### 💻 How to Run
@@ -53,10 +52,7 @@ $ git push origin feature/myAewsomeFeature
 ```
 
 - Read more about commits in [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).
-- Read more about how to open a Pull Request from
-  [GitHub official documentation](
-  https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
-  ).
+- Read more about how to open a Pull Request from [GitHub official documentation](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 ### 🏆 Technologies Used
 
