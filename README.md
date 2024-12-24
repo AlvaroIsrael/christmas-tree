@@ -14,7 +14,7 @@ Get in Touch!</a></h4>
 <p align="center">Hit the ⭐ button if you like this project!</p>
 
 <h1 align="center">
-    <img  alt="Christmas Tree" width='400' height='600' src="https://github.
+    <img  alt="Christmas Tree" width='400' height='582' src="https://github.
 com/AlvaroIsrael/christmas-tree/blob/main/src/images/christmas-tree.png"/>
 </h1>
 
