@@ -13,6 +13,10 @@
 Get in Touch!</a></h4>
 <p align="center">Hit the ⭐ button if you like this project!</p>
 
+<h1 align="center">
+    <img  alt="Christmas Tree" src="https://github.com/AlvaroIsrael/christmas-tree/blob/main/src/images/christmas-tree.png"/>
+</h1>
+
 ### 💻 How to Run
 
 Just open the file `index.html` in your browser and you should see a beautiful Christmas tree.
